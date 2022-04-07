@@ -128,3 +128,20 @@ section p {
     margin-top: 15px;
    margin: auto;
 }
+
+footer #res{
+    font-size: 22px;
+    color: #545454;
+}
+
+.colunas {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.coluna1 {
+    margin-right: 100px;
+	display: flex;
+	flex-direction: column;
+}
+
